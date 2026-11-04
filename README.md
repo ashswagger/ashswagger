@@ -1,5 +1,4 @@
-images will be changed later, code gifted by sour
-<img align="left" src=https://github.com/wiifiiess/hi/blob/8a67fc2664bfdccf87e2f3528760ce3e5f08c127/v35f2dn.png.webp alt="poop" width="420"/>
+<img align="left" src=https://github.com/ashswagger/ashswagger/blob/22659a2ed5294053c7fd531903e5fd272cfce449/sonny.png alt="poop" width="420"/>
 <br>
 <p align="center"> <img src=https://github.com/wiifiiess/wiifiiess/blob/7233b66745fb28f1f6189c19ccaaa651e63d912f/were_all_pops_in_a_perfect_schumg.png.webp width="300">
 <br>
